@@ -24,7 +24,7 @@ PERSONALITY_PREDICTOR_APP/
 │   └── result.html
 ├── static/
 │   └── style.css
-<pre>
+</pre>pre>
 
 
 ## 👩‍💻 Author
