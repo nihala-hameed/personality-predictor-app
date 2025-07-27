@@ -16,8 +16,8 @@ The Personality Predictor App is an AI-based web application built with Flask th
 - HTML & CSS
 
 ## 📁 Project Structure
-<pre>
 
+'''
 PERSONALITY_PREDICTOR_APP/
 ├── app.py
 ├── templates/
